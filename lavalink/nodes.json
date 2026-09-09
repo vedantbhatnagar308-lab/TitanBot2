@@ -1,9 +1,9 @@
-[
-  {
-"host" : lavalink.aiko-project.xyz
-"port" : 2333
-"password" : "Rikka"
-"secure" : false
+{
+  "host": "free-lava.heavencloud.in",
+  "port": 4000,
+  "password": "heavencloud.in",
+  "secure": false
+}
   },
   {
     "host": "lavalink.jirayu.net",
