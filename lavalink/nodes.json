@@ -1,10 +1,9 @@
 [
   {
-    "host": "lavalinkv4.serenetia.com",
-    "port": 443,
-    "password": "https://seretia.link/discord",
-    "secure": true,
-    "name": "Serenetia"
+Host : lavalink.aiko-project.xyz
+Port : 2333
+Password : "Rikka"
+Secure : false
   },
   {
     "host": "lavalink.jirayu.net",
