@@ -1,9 +1,9 @@
 [
   {
-Host : lavalink.aiko-project.xyz
-Port : 2333
-Password : "Rikka"
-Secure : false
+"host" : lavalink.aiko-project.xyz
+"port" : 2333
+"password" : "Rikka"
+"secure" : false
   },
   {
     "host": "lavalink.jirayu.net",
